@@ -1,3 +1,6 @@
+#### 使用场景
+1. 把mysql slowlog 解析出来方便做审核或者分析
+
 #### 使用:
 ```
 python3 MysqlSlowlogPars.py
